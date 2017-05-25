@@ -1,0 +1,1 @@
+#!/bin/bashtrap 'mysqladmin -u root -proot shutdown' EXITmysqld_safe
